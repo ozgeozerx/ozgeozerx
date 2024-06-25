@@ -21,3 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgeozerx&show_icons=true&locale=en" alt="ozgeozerx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozgeozerx&" alt="ozgeozerx" /></p>
+
+
+![snake gif](https://github.com/ozgeozerx/ozgeozerx/blob/output/github-contribution-grid-snake.gif)
+
